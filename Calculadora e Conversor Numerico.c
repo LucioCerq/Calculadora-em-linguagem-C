@@ -1,3 +1,8 @@
+// Calculadora e Conversor Numerico
+// Lucio Ferreira de Cerqueira
+// 25NOV2023
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
